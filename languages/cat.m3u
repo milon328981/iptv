@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Catalan" tvg-logo="https://i.imgur.com/CnIVW9o.jpg" tvg-country="ES" tvg-url="" group-title="News",324
+https://directes-tv-int.ccma.cat/int/ngrp:324_web/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Catalan" tvg-logo="https://i.imgur.com/pY8zxN3.png" tvg-country="ES" tvg-url="" group-title="",Bon Dia TV
+https://directes-tv-int.ccma.cat/int/ngrp:bnd_web/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Catalan" tvg-logo="https://i.imgur.com/o8EtLad.png" tvg-country="ES" tvg-url="" group-title="Local",RiberaTV
+https://common01.todostreaming.es/live/ribera-livestream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Catalan" tvg-logo="https://i.imgur.com/kJCjeQ4.png" tvg-country="AD" tvg-url="" group-title="",RTVA
+http://videos.rtva.ad:1935/live/rtva/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Catalan" tvg-logo="https://i.imgur.com/kJCjeQ4.png" tvg-country="AD" tvg-url="" group-title="",RTVA
+http://videos.rtva.ad:1935/live/web/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Catalan" tvg-logo="https://i.imgur.com/UJrapXK.jpg" tvg-country="ES" tvg-url="" group-title="Local",TeleSafor
+https://video.telesafor.com/hls/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Catalan" tvg-logo="https://i.imgur.com/khRXhT1.png" tvg-country="ES" tvg-url="" group-title="Local",Televisio Girona
+http://ventdelnord.tv:8080/girona/directe.m3u8
+#EXTINF:-1 tvg-id="TV3.TV" tvg-name="" tvg-language="Catalan" tvg-logo="https://i.imgur.com/QCKNWMJ.jpg" tvg-country="ES" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",TV3 Catalunya
+https://directes-tv-int.ccma.cat/int/ngrp:tvi_web/chunklist.m3u8
+#EXTINF:-1 tvg-id="APUNT.TV" tvg-name="" tvg-language="Catalan" tvg-logo="https://graph.facebook.com/apuntmedia/picture?width=200&height=200" tvg-country="ES" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="General",À Punt
+https://bcovlive-a.akamaihd.net/1e7e91116b104391a4f22e13a694d94f/eu-central-1/6057955885001/playlist_dvr.m3u8

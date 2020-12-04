@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="EITB Musika" tvg-language="Basque" tvg-logo="https://graph.facebook.com/eitbmusika/picture?width=320&height=320" tvg-country="UNSORTED" tvg-url="" group-title="",EITB Musika
+https://etbaeitbmusnogeo-lh.akamaihd.net/i/EITBMUSIKA_1@594815/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Euskadi Irratia" tvg-language="Basque" tvg-logo="https://graph.facebook.com/Euskadi.Irratia/picture?width=320&height=320" tvg-country="UNSORTED" tvg-url="" group-title="",Euskadi Irratia
+https://etbaeirratinogeo-lh.akamaihd.net/i/EIRRATIA_1@594816/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gaztea" tvg-language="Basque" tvg-logo="https://graph.facebook.com/gaztea/picture?width=320&height=320" tvg-country="UNSORTED" tvg-url="" group-title="",Gaztea
+https://etbagazteanogeo-lh.akamaihd.net/i/GAZTEA_1@349778/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Onda Vasca" tvg-language="Basque" tvg-logo="https://graph.facebook.com/ondavasca/picture?width=320&height=320" tvg-country="UNSORTED" tvg-url="" group-title="",Onda Vasca
+https://www.ondavasca.com:8001/bizkaia
+#EXTINF:-1 tvg-id="" tvg-name="Onda Vasca Gipuzcoa" tvg-language="Basque" tvg-logo="https://graph.facebook.com/ondavasca/picture?width=320&height=320" tvg-country="UNSORTED" tvg-url="" group-title="",Onda Vasca Gipuzcoa
+https://www.ondavasca.com:8001/gipuzkoa
+#EXTINF:-1 tvg-id="" tvg-name="Radio Euskadi" tvg-language="Basque" tvg-logo="https://graph.facebook.com/radiovitoria.eitb/picture?width=320&height=320" tvg-country="UNSORTED" tvg-url="" group-title="",Radio Euskadi
+https://etbareuskadnogeo-lh.akamaihd.net/i/REUSKADI_1@594818/index_128_a-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Popular - Herri Irratia" tvg-language="Basque" tvg-logo="https://graph.facebook.com/herriirratia/picture?width=320&height=320" tvg-country="UNSORTED" tvg-url="" group-title="",Radio Popular - Herri Irratia
+http://79.137.33.224:8000/radiopopular1
+#EXTINF:-1 tvg-id="" tvg-name="Radio Vitoria" tvg-language="Basque" tvg-logo="https://graph.facebook.com/radioeuskadi.RE/picture?width=320&height=320" tvg-country="UNSORTED" tvg-url="" group-title="",Radio Vitoria
+https://etbavitorianogeo-lh.akamaihd.net/i/RVITORIA_1@594819/master.m3u8
